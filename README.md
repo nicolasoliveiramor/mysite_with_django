@@ -10,7 +10,6 @@ Inicialize o ambiente virtual:
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
-```
 
 Instale as dependências utilizando o comando:
 
